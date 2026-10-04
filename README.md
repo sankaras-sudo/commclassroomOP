@@ -2,4 +2,4 @@
 
 Kunal Kushwaha learing github amazing..
 
-My name is sankar and currently learning git.
+My name is sankar and i am currently learning git.
